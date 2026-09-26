@@ -1,16 +1,99 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Todo List application** built with **React** to manage daily tasks through an intuitive and interactive interface.
 
-Currently, two official plugins are available:
+The project was created to practice React fundamentals, component-based architecture, state management, and user interactions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
 
-## React Compiler
+*  Add new tasks
+*  Update tasks
+*  Delete tasks
+*  Mark tasks as completed
+*  Display and manage the task list
+*  Responsive user interface
+*  Interactive React components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Technologies
 
-## Expanding the ESLint configuration
+* **React**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **Vite**
+* **Git & GitHub**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  React Concepts Used
+
+This project demonstrates several core React concepts, including:
+
+* Functional Components
+* `useState`
+* Props
+* Event Handling
+* Conditional Rendering
+* Rendering Lists
+* Component Reusability
+
+##  Installation
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+### 2. Navigate to the project
+
+```bash
+cd YOUR_PROJECT_NAME
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the application at:
+
+```text
+http://localhost:5173
+```
+
+## 📸 Screenshots
+
+### Todo List
+
+![Todo App](screenshots/todo-app.png)
+
+##  Build for Production
+
+```bash
+npm run build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
+```
+
+##  Author
+
+**Ahmed Abdelwahed**
+
+Full-Stack Developer specialized in **Laravel, React, and Next.js**.
+
+* GitHub: https://github.com/Ahmed3b1
+* LinkedIn: https://linkedin.com/in/ahmed-abdelwahed-181860306
+
+##  License
+
+This project was created as a practical React learning project.
